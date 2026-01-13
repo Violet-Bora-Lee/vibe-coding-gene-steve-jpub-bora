@@ -88,3 +88,60 @@ Please create a simple Flappy Bird-like game that I can play in the browser. Mak
 • “Add clouds.”
 • For fun: “Make it better.”
 ```
+
+### 9.5.4
+
+- 프롬프트(국문)
+
+```
+타임존 정보 없이 날짜를 저장하는 게 말이 안 된다는 건 알아. 지금 우리는 그 상태이고 상당히 곤란해. 실제 프로그램들이 타임존을 어떻게 처리하는지, 다양한 옵션을 알려줘. 데이터베이스나 Git에서 쓰는 방식이 마음에 들긴 하거든. Unix epoch 값을 파이썬을 사용해 타임존이 포함된 무언가로 바꾸는 게 무슨 의미인지 이해하도록 도와줘. 그래, 타임존을 고려해서 이 값을 올바르게 처리하게 해주는 계획을 세워줘.
+
+```
+
+- 프롬프트(영문)
+
+```
+I know that storing dates without time zones is not tenable. We’re there now and in a pickle. Give me some options on how real programs handle time zones. I like the way databases do it or how Git does it. Help me understand what it means to turn this Unix epoch in Python to something involving time zones. Yeah, give me a plan for how I handle time zones correctly for this value. How’s that?
+```
+
+### 10.3
+
+
+- 프롬프트(국문)
+
+```
+앨리스는 보스턴에 사는 의사이며 파란색 렉서스를 운전한다.
+```
+
+- 프롬프트(영문)
+
+```
+Alice is a doctor who lives in Boston and drives a blue Lexus.
+```
+
+
+
+
+
+
+
+
+
+-----
+
+- 프롬프트(국문)
+
+```
+
+```
+
+- 프롬프트(영문)
+
+```
+
+```
+
+
+
+
+
