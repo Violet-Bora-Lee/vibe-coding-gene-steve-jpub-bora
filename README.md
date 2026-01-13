@@ -88,7 +88,7 @@ Please create a simple Flappy Bird-like game that I can play in the browser. Mak
 • “Add clouds.”
 • For fun: “Make it better.”
 ```
-
+## 9장
 ### 9.5.4
 
 - 프롬프트(국문)
@@ -104,8 +104,8 @@ Please create a simple Flappy Bird-like game that I can play in the browser. Mak
 I know that storing dates without time zones is not tenable. We’re there now and in a pickle. Give me some options on how real programs handle time zones. I like the way databases do it or how Git does it. Help me understand what it means to turn this Unix epoch in Python to something involving time zones. Yeah, give me a plan for how I handle time zones correctly for this value. How’s that?
 ```
 
+## 10장
 ### 10.3
-
 
 - 프롬프트(국문)
 
